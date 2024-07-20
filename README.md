@@ -51,6 +51,6 @@
 
 ###
 
-
+![Snake animation](https://raw.githubusercontent.com/aakash-webdev/aakash-webdev/output/github-contribution-grid-snake-dark.svg)
 
 ###
