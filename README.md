@@ -1,4 +1,5 @@
-# 👨‍💻 Aakash Peshavaria 
+![image](https://github.com/user-attachments/assets/49a8c261-bf11-4593-afeb-595fedaaab3c)
+
 
 ### 💻 Front End Developer | 🔧 Former Mechanical Engineer
 
