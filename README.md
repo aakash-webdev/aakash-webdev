@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/49a8c261-bf11-4593-afeb-595fedaaab3c)
 
 
-### 💻 Front End Developer | 🔧 Former Mechanical Engineer
+### 💻 Front End Developer | 🔧 Former Mechanical Engineer 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-webdev" /> </p>
 
 <img align="right" height="150" src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif"  />
 
