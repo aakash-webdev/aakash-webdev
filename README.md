@@ -6,7 +6,7 @@
 
 ### 🌟 What I Bring:
 
-Hello! I'm Aakash Peshavaria, a passionate front-end developer with a solid foundation in mechanical engineering. My journey from mechanical engineering to front-end development has equipped me with a unique perspective and a problem-solving mindset that I bring to every project. I am a fresher in the IT industry and actively looking for opportunities to kickstart my career as a front-end developer.
+Hello! I'm Aakash Peshavaria, a passionate front-end developer with a solid foundation in mechanical engineering. My journey from mechanical engineering to front-end development has equipped me with a unique perspective and a problem-solving mindset that I bring to every project. Currently diving deeper into the IT industry.  I am a fresher in the IT industry and actively looking for opportunities to kickstart my career as a front-end developer.
 
 ### 🚀 Skills and Technologies:
 
@@ -39,15 +39,14 @@ Hello! I'm Aakash Peshavaria, a passionate front-end developer with a solid foun
 
 ### 📚 Education:
 
-- **Diploma in Mechanical Engineering**: Ahmedabad LJ Institute
-- **Degree in Mechanical Engineering**: Manukau Institute of Technology, Auckland, NZ
-- **Certificate in Web Design: DIT Academy, Ahmedabad
+- **Diploma in Mechanical Engineering**: LJ Institute of Technology, Ahmedabad
+- **Degree in Mechanical Engineering**: Manukau Institute of Technology, Auckland, New Zealand
+- **Certificate in Web Design**: DIT Academy, Ahmedabad
 
 ### 🌄 Personal Interests:
 
 - Trekking and exploring mountains
 - Passion for cinematography
-- Currently diving deeper into the IT industry
 
 ### 📢 Looking For:
 
