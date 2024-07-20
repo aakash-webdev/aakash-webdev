@@ -34,7 +34,6 @@ Hello! I'm Aakash Peshavaria, a passionate front-end developer with a solid foun
 
 - A blend of engineering precision and creative coding
 - Strong analytical and problem-solving skills
-- Experience in managing and optimizing production workflows
 - Passion for learning and staying updated with the latest in web development
 
 ### 📚 Education:
