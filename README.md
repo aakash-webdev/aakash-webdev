@@ -1,17 +1,14 @@
-<h2 align="left">Hi 👋! My name is Aakash Peshavaria and I'm a front end developer from India</h2>
+# 👨‍💻 Aakash Peshavaria
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakash-webdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-webdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+### 💻 Front End Developer | 🔧 Former Mechanical Engineer
 
 <img align="right" height="150" src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif"  />
 
-###
+### 🌟 What I Bring:
+
+Hello! I'm Aakash Peshavaria, a passionate front-end developer with a solid foundation in mechanical engineering. My journey from mechanical engineering to front-end development has equipped me with a unique perspective and a problem-solving mindset that I bring to every project. I am a fresher in the IT industry and actively looking for opportunities to kickstart my career as a front-end developer.
+
+### 🚀 Skills and Technologies:
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
@@ -33,11 +30,33 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
 </div>
 
-###
+### 🌟 What I Bring:
 
-<br clear="both">
+- A blend of engineering precision and creative coding
+- Strong analytical and problem-solving skills
+- Experience in managing and optimizing production workflows
+- Passion for learning and staying updated with the latest in web development
 
-<div align="center">
+### 📚 Education:
+
+- **Diploma in Mechanical Engineering**: Ahmedabad LJ Institute
+- **Degree in Mechanical Engineering**: Manukau Institute of Technology, Auckland, NZ
+
+### 🌄 Personal Interests:
+
+- Trekking and exploring mountains
+- Passion for cinematography
+- Currently diving deeper into the IT industry
+
+### 📢 Looking For:
+
+I am currently seeking opportunities in front-end development where I can apply my skills and grow as a professional. If you have an opening or know of one, please get in touch!
+
+---
+
+Feel free to connect with me!
+
+<div align="left">
   <a href="aakash.pesh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -51,6 +70,17 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aakash-webdev/aakash-webdev/output/snake.svg" alt="Snake animation" />
+<hr>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakash-webdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-webdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/aakash-webdev/aakash-webdev/output/snake.svg" alt="Snake animation" />
+</div>
