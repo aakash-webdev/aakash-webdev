@@ -41,6 +41,7 @@ Hello! I'm Aakash Peshavaria, a passionate front-end developer with a solid foun
 
 - **Diploma in Mechanical Engineering**: Ahmedabad LJ Institute
 - **Degree in Mechanical Engineering**: Manukau Institute of Technology, Auckland, NZ
+- **Certificate in Web Design: DIT Academy, Ahmedabad
 
 ### 🌄 Personal Interests:
 
