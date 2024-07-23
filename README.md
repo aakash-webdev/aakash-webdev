@@ -57,14 +57,11 @@ I am currently seeking opportunities in front-end development where I can apply 
 
 Feel free to connect with me!
 
-<div align="left">
-  <a href="aakash.pesh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aakash-peshavaria-401b51150/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+  ## ![circle-linkedin 256x255](https://github.com/user-attachments/assets/273c6dd1-3b93-4ee7-90d3-c3fcffe94af6)  <a>aakash.pesh@gmail.com</a>
+
+  ## ![circle-linkedin 256x255](https://github.com/user-attachments/assets/2c164df3-41a9-4a54-bdd5-87b5172f389c) <a href="https://www.linkedin.com/in/aakash-peshavaria-401b51150/">My Linkedin Profile</a>
+
+
 
 ###
 
