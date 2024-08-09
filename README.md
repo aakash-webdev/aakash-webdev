@@ -6,7 +6,7 @@
 
 <img align="right" height="150" src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif"  />
 
-### 🌟 What I Bring:
+### 🌟 About Me:
 
 Hello! I'm Aakash Peshavaria, a passionate front-end developer with a solid foundation in mechanical engineering. My journey from mechanical engineering to front-end development has equipped me with a unique perspective and a problem-solving mindset that I bring to every project. Currently diving deeper into the IT industry.  I am a fresher in the IT industry and actively looking for opportunities to kickstart my career as a front-end developer.
 
